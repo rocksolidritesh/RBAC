@@ -39,9 +39,10 @@ The RBAC Dashboard is a sophisticated React-based web application designed to pr
 
 ## 📦 Installation Steps
 
-1. Enter the Project Folder
+1. Clone the repository
 ```bash
-cd rbac
+git clone https://github.com/rocksolidritesh/RBAC.git
+cd RBAC
 ```
 
 2. Install Dependencies
